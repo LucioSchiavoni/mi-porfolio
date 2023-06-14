@@ -7,8 +7,10 @@ import { Contact } from './Components/Contact'
 import { Proyects } from './Components/Proyects'
 
 export default function Home() {
+
+   
   return (
- <div className='bg-base-100'>
+ <div className='bg-white'>
   <div className='fixed z-50 '>
 <Header/>
 </div>
