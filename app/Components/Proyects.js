@@ -24,8 +24,7 @@ export const Proyects = () => {
     </div>
     </div>
 
-
-    <div  className='h-full p-4 text-white bg-black hidden tablet:block' >
+    <div  className='h-full p-4 text-black   hidden tablet:block' >
     <div >
     <p className='text-center text-2xl mb-2'>Proyectos</p>
     <div className='h-full w-full grid grid-cols-2 p-2 gap-5 m-auto ' >
