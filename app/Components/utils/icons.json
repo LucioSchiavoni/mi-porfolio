@@ -1,0 +1,71 @@
+[
+
+    {
+        "nombre":"HTML",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+        "nombre":"CSS",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+        "nombre": "Javascript",
+        "foto": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+
+    },
+    {
+        "nombre":"Node Js",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    },
+    {
+        "nombre":"React",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+        "nombre":"Next",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+    },
+    {
+        "nombre":"MySQL",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+    },
+    {
+        "nombre":"Mongo DB",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+    },
+    {
+        "nombre":"Firebase",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+    },
+    {
+        "nombre":"AWS",
+         "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+            
+      },
+    {
+        "nombre":"Bash",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg"
+    },
+    {
+        "nombre":"PHP",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    },
+    {
+        "nombre":"Solidity",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"
+    },
+    {
+        "nombre":"Docker",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    },
+    {
+        "nombre":"Tailwind",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    },
+    {
+        "nombre":"Github",
+        "foto":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    }
+   
+  
+    ]
