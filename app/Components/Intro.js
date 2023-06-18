@@ -5,7 +5,7 @@ export const Intro = () => {
   return (
     <div className=''>
         <div className='w-auto  text-center text-black py-52' id='inicio'>
-  <div className='w-full h-96'>
+  <div className='w-full '>
     
     <h1  className='  text-3xl'>Hola, soy
       <span className=' text-3xl '> < b className='text-[#153153]'  >Lucio Schiavoni</b></span>

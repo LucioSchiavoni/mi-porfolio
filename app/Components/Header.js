@@ -29,7 +29,8 @@ export const Header = () => {
             <li>  <div className="dropdown dropdown-bottom flex items-center justify-center ">
         <label tabIndex={0} className="btn btn-ghost normal-case text-sm m-1">CERTIFICADOS</label>
         <ul tabIndex={0} className="dropdown-content menu p-2 text-black shadow bg-white rounded-box w-52">
-          <li><a href="https://coderhouse.com.uy/pages/certificados/648117f55e404a000233713c" target="_blank">Fullstack</a></li>
+          <li><a href="https://drive.google.com/drive/u/0/my-drive" target="_blank">Fullstack</a></li>
+          
           <li><a href="https://coderhouse.com.uy/pages/certificados/648117f55e404a000233713a" target="_blank">Backend</a></li>
           <li><a href="https://coderhouse.com.uy/pages/certificados/6364e18c6069aa000e8f2242"  target="_blank">Frontend</a></li>
           <li><a href="https://coderhouse.com.uy/pages/certificados/6364e18c6069aa000e8f223f" target="_blank">React</a></li>

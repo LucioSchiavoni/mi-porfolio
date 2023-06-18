@@ -13,7 +13,17 @@ export const About = () => {
   <figure className=''><Image src='/fotocv.jpg' alt='perfil' className='' width={5000} height={3000}/></figure>
   <div className="card-body text-black">
 
-    <p>Mi nombre es Lucio, tengo 24 años y curso mi ultimo año de Informatica en UTU Arias Balparda de la ciudad de Montevideo. Me especializo en la orientación de desarrollo de Software y desarrollador Fullstack, esto ultimo en una academia virtual llamada Coderhouse.</p>
+    <p>Hola! Mi nombre es Lucio Schiavoni y soy estudiante de informática en la orientación de desarrollo de software en la UTU "Arias balparda". Actualmente me encuentro cursando mi último año en esta institución, donde he adquirido sódilos conocimientos en programación desarrollo de aplicaciones.
+
+Además de mi formación académica, he complementado mis habilidades con un curso de desarrollador fullstack en la academia Coderhouse finalizando dentro del top 10 de estudiantes. 
+
+También estoy involucrado en un proyecto de software en colaboración con compañeros de mi último año en la UTU. 
+Este proyecto nos ha brindado la oportunidad de aplicar los conocimientos adquiridos en nuestras clases y trabajar en equipo para desarrollar una solución de software completa y funcional.
+
+Como parte de mi formación, he adquirido experiencia en la implementación de metodologías ágiles como Scrum y Kanban. Tambien trabajamos con Jira junto con mi grupo de proyecto.
+
+Me considero una persona apasionada por el desarrollo de software, siempre dispuesto a aprender nuevas tecnologías y enfrentar desafíos. Mi objetivo es seguir creciendo profesionalmente y contribuir con mis habilidades en un entorno dinámico y colaborativo
+</p>
   
   </div>
 </div>
@@ -23,13 +33,30 @@ export const About = () => {
         </div>
         </div>
 
-<div className='hidden tablet:block flex'>
+<div className='hidden tablet:block flex '>
 
-   <div className=" w-4/12 m-auto rounded-xl shadow-xl shadow-black  flex text-black">
-<div className=''>
-    <Image src="/fotocv.jpg" alt="perfilcv" width={300} height={300} />
+   <div className=" w-11/12 m-auto p-9 flex items-center justify-center  text-black border rounded shadow-xl">
+<div className=' ml-10'>
+    <Image src="/fotocv.jpg" alt="perfilcv" className='rounded-lg shadow-lg shadow-black' width={300} height={300} />
    </div>
-    <p className="mb-4 w-96 mt-4  p-4  ">Mi nombre es Lucio, tengo 24 años y curso mi último año de Informática en UTU Arias Balparda de la ciudad de Montevideo. Me especializo en la orientación de desarrollo de Software y desarrollador Fullstack, esto último en una academia virtual llamada Coderhouse.</p>
+    <div className="mb-4 w-9/12  mt-4 p-16 h-96 grid grid-cols-2 ">
+      <div>
+        <h2 className='mb-4 font-bold text-2xl'>Sobre mi</h2>
+      <p className='mb-4'> Hola! Mi nombre es Lucio Schiavoni y soy estudiante de informática en la orientación de desarrollo de software en la UTU "Arias balparda". Actualmente me encuentro cursando mi último año en esta institución, donde he adquirido sódilos conocimientos en programación desarrollo de aplicaciones.</p>
+<p className='mb-4'>
+Además de mi formación académica, he complementado mis habilidades con un curso de desarrollador fullstack en la academia Coderhouse finalizando dentro del top 10 de estudiantes. </p>
+<p className=''>
+También estoy involucrado en un proyecto de software en colaboración con compañeros de mi último año en la UTU. 
+Este proyecto nos ha brindado la oportunidad de aplicar los conocimientos adquiridos en nuestras clases y trabajar en equipo para desarrollar una solución de software completa y funcional.</p>
+</div>
+<div>
+<p className='mb-4 mt-11'>
+Como parte de mi formación, he adquirido experiencia en la implementación de metodologías ágiles como Scrum y Kanban. Tambien trabajamos con Jira junto con mi grupo de proyecto.
+</p>
+<p className='mb-4'>
+Me considero una persona apasionada por el desarrollo de software, siempre dispuesto a aprender nuevas tecnologías y enfrentar desafíos. Mi objetivo es seguir creciendo profesionalmente y contribuir con mis habilidades en un entorno dinámico y colaborativo</p>
+</div>
+</div>
  
 </div>
 </div>
