@@ -39,7 +39,7 @@ Me considero una persona apasionada por el desarrollo de software, siempre dispu
 <div className=" ml-10">
     <Image src="/fotocv.jpg" alt="perfilcv" className='rounded-lg shadow-lg shadow-black' width={300} height={300} />
    </div>
-    <div className="mb-4 w-9/12  mt-4 p-16 h-96 grid grid-cols-2 ">
+    <div className="mb-4 w-9/12  mt-4 p-16 grid grid-cols-2 ">
       <div>
         <h2 className='mb-4 font-bold text-2xl'>Sobre mi</h2>
       <p className="mb-4"> Hola! Mi nombre es Lucio Schiavoni y soy estudiante de informática en la orientación de desarrollo de software en la UTU Arias balparda. Actualmente me encuentro cursando mi último año en esta institución, donde he adquirido sódilos conocimientos en programación desarrollo de aplicaciones.</p>
