@@ -11,15 +11,15 @@ export const Contact = () => {
     <form action='https://getform.io/f/82c66796-df04-4395-bc19-aecfd4b660c1' method='POST'>
 <div className='form-control mb-4 gap-3'>
     <label >Nombre:</label>
-    <input className='input ' name='name' placeholder='nombre' required/>
+    <input className='w-64 h-10 p-4 rounded-lg bg-gray-800 text-white ' name='name' placeholder='nombre' required/>
 </div>
 <div className='form-control mb-4 gap-3'>
     <label >Email:</label>
-    <input className='input' placeholder='email@gmail.com' name='email' required/>
+    <input className='w-64 h-10 p-4 rounded-lg bg-gray-800 text-white' placeholder='email@gmail.com' name='email' required/>
 </div>
 <div className='form-control mb-4 gap-3'>
     <label >Mensaje:</label>
-    <textarea name='message' class="w-full input  h-40 p-2 border border-gray-300 rounded" placeholder="Escribe tu mensaje aquí"></textarea>
+    <textarea name='message' class="w-full bg-gray-800 h-40 p-2 border border-gray-300 rounded" placeholder="Escribe tu mensaje aquí"></textarea>
 </div>
 
 <button type='submit' className='h-10 w-24 rounded p-1 glass bg-sky-900 shadow-xl shadow-black hover:scale-125 transition duration-300 delay-150'>Enviar</button>
@@ -43,16 +43,16 @@ export const Contact = () => {
 <div className='flex items-center justify-center space-x-24 p-8 mt-20 '>
 <form action='https://getform.io/f/82c66796-df04-4395-bc19-aecfd4b660c1' method='POST'>
 <div className='form-control mb-4 gap-3'>
-    <label >Nombre:</label>
-    <input className='input text-white ' name='name' placeholder='nombre' required/>
+    <label className='font-bold'>Nombre:</label>
+    <input className='w-64 h-10 p-4 rounded-lg bg-gray-800 text-white ' name='name' placeholder='nombre' required/>
 </div>
 <div className='form-control mb-4 gap-3'>
-    <label >Email:</label>
-    <input className='input text-white' placeholder='email@gmail.com' name='email' required/>
+    <label className='font-bold' >Email:</label>
+    <input className='w-64 h-10 p-4 rounded-lg bg-gray-800 text-white' placeholder='email@gmail.com' name='email' required/>
 </div>
-<div className='form-control mb-4 gap-3'>
-    <label >Mensaje:</label>
-    <textarea name='message' class="w-full input text-white  h-40 p-2 border border-gray-300 rounded" placeholder="Escribe tu mensaje aquí"></textarea>
+<div className='form-control  mb-4 gap-3'>
+    <label className='font-bold' >Mensaje:</label>
+    <textarea name='message' className="w-full bg-gray-800 text-white  h-40 p-2 border border-gray-300 rounded" placeholder="Escribe tu mensaje aquí"></textarea>
 </div>
 
 <button type='submit' className='h-10 w-24 rounded p-1 glass bg-sky-900 shadow-xl shadow-black hover:scale-125 transition duration-300 delay-150'>Enviar</button>
