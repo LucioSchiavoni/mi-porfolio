@@ -8,7 +8,7 @@ export const Item = () => {
   return (
     <>
     
-    <p className='text-2xl p-4 mt-5 text-black font-bold m-16' id='habilidades'>Que puedo hacer?</p>
+    <p className='text-2xl p-4 text-center mt-5 text-black font-bold m-16' id='habilidades'>Que puedo hacer?</p>
 <div className='grid grid-cols-2  tablet:grid-cols-3' >
     
     {

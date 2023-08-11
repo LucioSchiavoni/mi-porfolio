@@ -60,9 +60,9 @@ export const Contact = () => {
     </form>
 
 <div className='mt-20 w-80  p-4 text-black   rounded-lg shadow-xl'>
-   <div className='grid grid-cols-1 gap-5 '><label>¡Gracias por visitar mi portafolio!</label>  
-   <label>Si tiene alguna pregunta o está interesado en conocer más sobre mi experiencia y habilidades, no dude en ponerse en contacto conmigo.</label> 
-      <label className=' mb-2  text-black'>Si quieres puedes copiar mi Gmail haciendo click en el boton que esta aqui abajo.</label></div> 
+   <div className='grid grid-cols-1 gap-5 '><div>¡Gracias por visitar mi portafolio!</div>  
+   <div>Si tiene alguna pregunta o está interesado en conocer más sobre mi experiencia y habilidades, no dude en ponerse en contacto conmigo.</div> 
+      <div className=' mb-2  text-black'>Si quieres puedes copiar mi Gmail haciendo click en el boton que esta aqui abajo.</div></div> 
  <EmailCopy/>
  </div>
  </div>

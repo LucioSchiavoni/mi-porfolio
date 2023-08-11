@@ -10,7 +10,7 @@ export const About = () => {
     <div className='p-4  border-white mb-24 mt-24' >
     <div  className='text-black shadow-xl  shadow-gray rounded '>
     <div className="card card-side glass text-white shadow-xl ">
-  <figure className=''><Image src='/fotocv.jpg' alt='perfil' className='' width={5000} height={3000}/></figure>
+
   <div className="card-body text-black">
 
     <p>Hola! Mi nombre es Lucio Schiavoni y soy estudiante de informática en la orientación de desarrollo de software en la UTU Arias balparda. Actualmente me encuentro cursando mi último año en esta institución, donde he adquirido sódilos conocimientos en programación desarrollo de aplicaciones.
